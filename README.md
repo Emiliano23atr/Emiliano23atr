@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-<img  src="Assets/img2.png">
+<img  src="Assets/img.jpg">
 </p>
 
 <br>
