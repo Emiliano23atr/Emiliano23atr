@@ -14,11 +14,7 @@
 
 #### Technologies: <img src="Assets/com.gif" width="20px" align="left">
 
-<p align="center" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,html,css" width="150px" />
-  </a>
-</p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,cs,html,css" width="150px" /></a>
 
 <br>
 
