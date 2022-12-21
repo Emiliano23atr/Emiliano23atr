@@ -1,7 +1,7 @@
 ## Hello world! 🖥
 
 <div align="center">
-<img  src="Assets/anim.gif">
+<img  src="Assets/img.jpg">
 </div>
 
 <br>
